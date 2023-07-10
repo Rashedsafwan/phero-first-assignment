@@ -9,7 +9,7 @@
     background-color: #E554731A;
     background-image: url('../flower asset/pngwing\ 10.png');
     background-repeat: no-repeat;
-    background-position: bottom right 270px;
+    background-position: bottom right 240px;
     background-size: 400px; 
 }
 .text{
@@ -27,7 +27,7 @@
 .text-description{
     margin: 25px 0px;
     color: rgb(107, 105, 105);
-    width: 50%;
+    width: 85%;
     line-height: 28px;
     font-weight: lighter;
 }
